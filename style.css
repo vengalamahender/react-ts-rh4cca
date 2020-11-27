@@ -1,0 +1,8 @@
+h1,
+p {
+  font-family: Lato;
+}
+.avatar {
+  width: 120px;
+  border-radius: 50%;
+}
